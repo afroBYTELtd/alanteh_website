@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="Energy hub charging and swapping site">
+<rect width="900" height="680" fill="#fffaf0"/>
+<rect x="70" y="84" width="760" height="496" fill="#f2ecdf" stroke="#07100d" stroke-width="4"/>
+<g stroke="#07100d" stroke-width="4"><path d="M162 176h396l-52 98H112l50-98Z" fill="#0b2f23"/><path d="M174 198h342M152 236h342M246 176l-46 98M332 176l-44 98M418 176l-42 98" stroke="#d9a441" stroke-width="5"/></g>
+<path d="M182 274v204M492 274v204" stroke="#07100d" stroke-width="8"/>
+<g stroke="#07100d" stroke-width="4"><rect x="570" y="220" width="126" height="232" fill="#1d6b4a"/><rect x="602" y="252" width="62" height="34" fill="#d9a441"/><path d="M602 320h62M602 354h62M602 388h62" stroke="#fffaf0" stroke-width="8"/></g>
+<g stroke="#07100d" stroke-width="4"><path d="M228 388h212l52 62H174l54-62Z" fill="#d9a441"/><circle cx="256" cy="460" r="28" fill="#07100d"/><circle cx="432" cy="460" r="28" fill="#07100d"/></g>
+<path d="M492 452h78M696 338h58v118h-58" stroke="#07100d" stroke-width="5" fill="none"/>
+<circle cx="740" cy="132" r="40" fill="#d9a441"/><path d="M740 68v-30M740 226v-30M646 132h30M804 132h30M674 66l24 24M782 174l24 24M806 66l-24 24M698 174l-24 24" stroke="#d9a441" stroke-width="7"/>
+</svg>

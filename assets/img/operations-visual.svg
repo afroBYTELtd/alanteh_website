@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="Fleet operations dashboard">
+<rect width="900" height="680" fill="#0b2f23"/>
+<rect x="86" y="82" width="728" height="508" fill="#fffaf0" stroke="#07100d" stroke-width="4"/>
+<rect x="126" y="126" width="648" height="76" fill="#07100d"/>
+<path d="M160 164h160M358 164h90M488 164h120" stroke="#d9a441" stroke-width="9"/>
+<g stroke="#07100d" stroke-width="4"><rect x="126" y="240" width="176" height="120" fill="#f2ecdf"/><path d="M154 284h110M154 318h70" stroke="#1d6b4a" stroke-width="8"/><rect x="334" y="240" width="176" height="120" fill="#f2ecdf"/><path d="M362 284h110M362 318h70" stroke="#d9a441" stroke-width="8"/><rect x="542" y="240" width="232" height="286" fill="#f2ecdf"/></g>
+<path d="M578 492 C608 440 640 448 664 394 S714 342 744 298" fill="none" stroke="#1d6b4a" stroke-width="10" stroke-linecap="square"/>
+<g fill="#d9a441"><rect x="568" y="480" width="28" height="28"/><rect x="650" y="382" width="28" height="28"/><rect x="730" y="286" width="28" height="28"/></g>
+<g stroke="#07100d" stroke-width="4"><rect x="126" y="394" width="176" height="132" fill="#f2ecdf"/><path d="M158 492h108M158 454h64" stroke="#1d6b4a" stroke-width="8"/><rect x="334" y="394" width="176" height="132" fill="#f2ecdf"/><path d="M366 492h108M366 454h64" stroke="#d9a441" stroke-width="8"/></g>
+</svg>

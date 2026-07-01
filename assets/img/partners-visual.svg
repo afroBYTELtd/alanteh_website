@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="Fleet partner network">
+<rect width="900" height="680" fill="#0b2f23"/>
+<g stroke="#fffaf0" stroke-width="4" fill="none"><path d="M450 340H238M450 340h212M450 340V180M450 340v160"/></g>
+<g stroke="#07100d" stroke-width="4"><rect x="360" y="250" width="180" height="180" fill="#d9a441"/><path d="M394 332h112M394 362h72" stroke="#07100d" stroke-width="8"/></g>
+<g stroke="#07100d" stroke-width="4"><rect x="110" y="118" width="220" height="150" fill="#fffaf0"/><path d="M145 174h150M145 208h92" stroke="#1d6b4a" stroke-width="8"/><rect x="570" y="118" width="220" height="150" fill="#1d6b4a"/><path d="M606 174h148M606 208h92" stroke="#fffaf0" stroke-width="8"/><rect x="110" y="430" width="220" height="132" fill="#1d6b4a"/><path d="M145 478h150M145 512h92" stroke="#fffaf0" stroke-width="8"/><rect x="570" y="430" width="220" height="132" fill="#fffaf0"/><path d="M606 478h148M606 512h92" stroke="#1d6b4a" stroke-width="8"/></g>
+<g fill="#d9a441"><circle cx="450" cy="180" r="20"/><circle cx="238" cy="340" r="20"/><circle cx="662" cy="340" r="20"/><circle cx="450" cy="500" r="20"/></g>
+</svg>

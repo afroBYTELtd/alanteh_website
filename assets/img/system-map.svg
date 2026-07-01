@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="Africa Solar Mobility system map">
+<rect width="900" height="680" fill="#0b2f23"/>
+<g stroke="#fffaf0" stroke-width="2" opacity="0.20"><path d="M70 116h760M70 220h760M70 324h760M70 428h760M70 532h760"/><path d="M132 76v540M258 76v540M384 76v540M510 76v540M636 76v540M762 76v540"/></g>
+<path d="M132 532 C255 430 295 430 384 324 S598 204 762 116" fill="none" stroke="#d9a441" stroke-width="12" stroke-linecap="square"/>
+<path d="M132 532 C255 430 295 430 384 324 S598 204 762 116" fill="none" stroke="#fffaf0" stroke-width="3" stroke-dasharray="22 24" stroke-linecap="square"/>
+<g stroke="#07100d" stroke-width="4"><rect x="87" y="492" width="92" height="54" fill="#fffaf0"/><rect x="349" y="286" width="92" height="54" fill="#fffaf0"/><rect x="716" y="76" width="92" height="54" fill="#fffaf0"/></g>
+<g fill="#07100d"><circle cx="112" cy="552" r="11"/><circle cx="153" cy="552" r="11"/><circle cx="374" cy="346" r="11"/><circle cx="415" cy="346" r="11"/><circle cx="741" cy="136" r="11"/><circle cx="782" cy="136" r="11"/></g>
+<g stroke="#07100d" stroke-width="4"><rect x="566" y="410" width="96" height="122" fill="#1d6b4a"/><rect x="590" y="436" width="48" height="18" fill="#d9a441"/><rect x="590" y="466" width="48" height="18" fill="#fffaf0"/><rect x="590" y="496" width="48" height="18" fill="#fffaf0"/></g>
+<g stroke="#07100d" stroke-width="4"><rect x="182" y="110" width="182" height="116" fill="#fffaf0"/><path d="M205 152h136M205 182h92" stroke="#1d6b4a" stroke-width="8"/></g>
+<rect x="640" y="205" width="138" height="88" fill="#d9a441" stroke="#07100d" stroke-width="4"/>
+<path d="M668 236h82M668 263h48" stroke="#07100d" stroke-width="7"/>
+<circle cx="738" cy="470" r="52" fill="#d9a441"/><path d="M738 390v-46M738 596v-46M612 470h46M818 470h46M649 381l32 32M795 527l32 32M827 381l-32 32M681 527l-32 32" stroke="#d9a441" stroke-width="8"/>
+</svg>

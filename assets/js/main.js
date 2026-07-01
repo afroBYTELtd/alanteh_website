@@ -1,0 +1,7 @@
+const button=document.querySelector('[data-menu-button]');const nav=document.querySelector('[data-site-nav]');if(button&&nav){button.addEventListener('click',()=>{const open=nav.classList.toggle('open');button.setAttribute('aria-expanded',String(open));});}
+
+async function submitEnquiry(event){event.preventDefault();const form=event.target;const data=new FormData(form);const submitBtn=form.querySelector('[type="submit"]');if(submitBtn)submitBtn.disabled=true;try{const response=await fetch('/dashboard/public-enquiry/',{method:'POST',body:data});if(response.status===429){showFormMessage(form,'You have submitted several enquiries recently. Please wait a few minutes before trying again.');return;}if(response.redirected&&response.url){window.location.href=response.url;return;}if(response.ok||response.status===302){showFormMessage(form,'Thank you. Your enquiry has been sent. Our team will contact you soon.');form.reset();return;}showFormMessage(form,'Something went wrong. Please try again or contact us directly.');}catch(err){showFormMessage(form,'Could not send your enquiry. Please check your connection and try again.');}finally{if(submitBtn)submitBtn.disabled=false;}}
+
+function showFormMessage(form,message){let msg=form.querySelector('.form-message');if(!msg){msg=document.createElement('p');msg.className='form-message';form.appendChild(msg);}msg.textContent=message;}
+
+document.querySelectorAll('form[action="/dashboard/public-enquiry/"]').forEach((form)=>{form.addEventListener('submit',submitEnquiry);});

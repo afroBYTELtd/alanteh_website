@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-label="Clean electric ride service">
+<rect width="900" height="680" fill="#fffaf0"/>
+<rect x="70" y="82" width="760" height="486" fill="#f2ecdf" stroke="#07100d" stroke-width="4"/>
+<path d="M120 480h650" stroke="#07100d" stroke-width="4"/>
+<g stroke="#07100d" stroke-width="4"><rect x="614" y="188" width="92" height="226" fill="#0b2f23"/><rect x="635" y="216" width="50" height="36" fill="#d9a441"/><path d="M635 284h50M635 316h50M635 348h50" stroke="#fffaf0" stroke-width="7"/></g>
+<path d="M222 348h330l70 78H145l77-78Z" fill="#1d6b4a" stroke="#07100d" stroke-width="5"/>
+<path d="M291 258h206l62 90H221l70-90Z" fill="#d9a441" stroke="#07100d" stroke-width="5"/>
+<path d="M321 278h82v70h-128l46-70ZM420 278h69l48 70H420v-70Z" fill="#fffaf0" stroke="#07100d" stroke-width="4"/>
+<circle cx="238" cy="435" r="42" fill="#07100d"/><circle cx="534" cy="435" r="42" fill="#07100d"/><circle cx="238" cy="435" r="16" fill="#fffaf0"/><circle cx="534" cy="435" r="16" fill="#fffaf0"/>
+<rect x="132" y="140" width="196" height="74" fill="#fffaf0" stroke="#07100d" stroke-width="4"/><path d="M158 166h128M158 190h72" stroke="#1d6b4a" stroke-width="8"/>
+<path d="M670 426c22 0 42 17 42 42h-84c0-25 20-42 42-42Z" fill="#d9a441" stroke="#07100d" stroke-width="4"/>
+</svg>
