@@ -17,3 +17,6 @@ The public website is intentionally simple. It presents ALANTEH as a clean mobil
 Task 46C wires the Ride Service, Energy Hubs, Partners, and Contact forms to the approved Command Center public enquiry intake path: `/dashboard/public-enquiry/`. The forms submit only public-safe enquiry fields and do not expose internal Command Center workflow fields.
 
 Task 46D adds a lightweight honeypot safety field named `website_url` to the Ride Service, Energy Hubs, Partners, and Contact enquiry forms. The field is hidden from normal visitors, is not saved as enquiry data, and helps the backend ignore bot-like submissions while preserving the approved public-safe form contract.
+
+
+Clean URL and favicon update: internal navigation uses extensionless public paths and favicon files use the white background ALANTEH green and black brand symbol.
