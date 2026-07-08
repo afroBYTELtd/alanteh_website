@@ -1,6 +1,6 @@
-# Africa Solar Mobility public website V12
+# ALANTEH public website V12
 
-Launch ready public company website for Africa Solar Mobility.
+Launch ready public company website for ALANTEH.
 
 Public pages:
 - Home
@@ -12,7 +12,7 @@ Public pages:
 - Privacy
 - Terms
 
-The public website is intentionally simple. It presents Africa Solar Mobility as a clean mobility and energy operations company serving Ghana first. Private project details belong in internal documents, the Command Center, and private data rooms, not on the public site.
+The public website is intentionally simple. It presents ALANTEH as a clean mobility and energy operations company serving Ghana first. Private project details belong in internal documents, the Command Center, and private data rooms, not on the public site.
 
 Task 46C wires the Ride Service, Energy Hubs, Partners, and Contact forms to the approved Command Center public enquiry intake path: `/dashboard/public-enquiry/`. The forms submit only public-safe enquiry fields and do not expose internal Command Center workflow fields.
 

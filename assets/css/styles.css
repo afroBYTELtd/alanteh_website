@@ -185,3 +185,51 @@ h2 { font-size: clamp(30px, 3.4vw, 50px); line-height: 1; }
   .hero-copy, .hero-visual { min-height: auto; }
   .metrics-bar { border-right: 1px solid var(--line); }
 }
+
+/* Mobile first QA polish for public launch */
+@media (max-width: 760px) {
+  .header-inner { min-height: 64px; width: min(100% - 24px, var(--max)); gap: 12px; }
+  .brand-logo { height: 26px; max-width: 170px; }
+  .menu-button { min-height: 40px; padding: 9px 10px; font-size: 10px; }
+  .site-nav { top: 64px; padding: 12px 14px 16px; }
+  .site-nav.open { grid-template-columns: 1fr; }
+  .site-nav.open .nav-link { min-height: 44px; display: flex; align-items: center; justify-content: center; background: var(--paper); border-color: var(--line); }
+
+  .hero { width: min(100% - 24px, var(--wide)); grid-template-columns: 1fr; padding: 22px 0 18px; gap: 14px; }
+  .hero-copy { min-height: auto; padding: 28px 22px; }
+  .hero-visual { min-height: 260px; padding: 20px; }
+  .hero-visual svg { width: 100%; max-height: 220px; }
+
+  h1 { font-size: clamp(34px, 11vw, 46px); line-height: 1.02; letter-spacing: -.055em; }
+  h2 { font-size: clamp(27px, 9vw, 38px); line-height: 1.06; }
+  h3 { font-size: clamp(20px, 7vw, 26px); }
+  .lede, .page-hero p, .feature-copy p, .panel.large p, .quote-panel p { font-size: 16px; line-height: 1.55; }
+
+  .hero-actions, .action-row { gap: 10px; margin-top: 22px; }
+  .hero-actions .button, .action-row .button, .contact-form .button { width: 100%; }
+  .signal-row span { width: 100%; text-align: center; }
+
+  .metrics-bar, .section, .page-hero, .page-layout, .contact-layout, .cta-band, .footer-grid { width: min(100% - 24px, var(--max)); }
+  .metrics-bar { border-right: 1px solid var(--line); }
+  .section { padding: 52px 0; }
+  .page-hero { padding: 44px 0 28px; }
+  .page-hero h1 { font-size: clamp(32px, 10vw, 44px); line-height: 1.04; }
+
+  .feature-copy, .contact-card, .contact-form { padding: 26px 20px; }
+  .panel, .tile, .cta-panel, .quote-panel, .team-card, .route-card, .principle-card, .faq-item { padding: 24px 20px; }
+  .visual-panel { min-height: 220px; padding: 20px; }
+  .visual-panel svg { width: 100%; max-height: 220px; }
+  .process-strip div { min-height: auto; padding: 22px 20px; }
+
+  input, select, textarea { font-size: 16px; }
+  .footer-logo { height: 34px; }
+  .footer-nav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .footer-nav a, .footer-contact a { word-break: break-word; }
+}
+
+@media (max-width: 420px) {
+  .brand-logo { height: 24px; max-width: 150px; }
+  .menu-button { padding: 8px 9px; }
+  h1 { font-size: clamp(32px, 10.5vw, 42px); }
+  .hero-copy { padding: 26px 18px; }
+}
